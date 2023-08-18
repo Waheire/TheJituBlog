@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3SCxS7IPA9D63mB62jlcqm5nthaQJowbw9mge52qmoSMGcsjrQw7v2orgvXj5/MOPOKroiAyi/R+Q7+QHodI7g==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\c#\\TheJituBlog\\TheJituBlog\\TheJituBlog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brown\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Projects\c#\TheJituBlog\TheJituBlog\obj\Debug\net6.0\TheJituBlog.csproj.AssemblyReference.cache
+C:\Projects\c#\TheJituBlog\TheJituBlog\obj\Debug\net6.0\TheJituBlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\TheJituBlog\TheJituBlog\obj\Debug\net6.0\TheJituBlog.AssemblyInfoInputs.cache
+C:\Projects\c#\TheJituBlog\TheJituBlog\obj\Debug\net6.0\TheJituBlog.AssemblyInfo.cs
+C:\Projects\c#\TheJituBlog\TheJituBlog\obj\Debug\net6.0\TheJituBlog.csproj.CoreCompileInputs.cache
+C:\Projects\c#\TheJituBlog\TheJituBlog\bin\Debug\net6.0\TheJituBlog.exe
+C:\Projects\c#\TheJituBlog\TheJituBlog\bin\Debug\net6.0\TheJituBlog.deps.json
+C:\Projects\c#\TheJituBlog\TheJituBlog\bin\Debug\net6.0\TheJituBlog.runtimeconfig.json
+C:\Projects\c#\TheJituBlog\TheJituBlog\bin\Debug\net6.0\TheJituBlog.dll
+C:\Projects\c#\TheJituBlog\TheJituBlog\bin\Debug\net6.0\TheJituBlog.pdb
+C:\Projects\c#\TheJituBlog\TheJituBlog\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projects\c#\TheJituBlog\TheJituBlog\obj\Debug\net6.0\TheJituBlog.csproj.CopyComplete
+C:\Projects\c#\TheJituBlog\TheJituBlog\obj\Debug\net6.0\TheJituBlog.dll
+C:\Projects\c#\TheJituBlog\TheJituBlog\obj\Debug\net6.0\refint\TheJituBlog.dll
+C:\Projects\c#\TheJituBlog\TheJituBlog\obj\Debug\net6.0\TheJituBlog.pdb
+C:\Projects\c#\TheJituBlog\TheJituBlog\obj\Debug\net6.0\TheJituBlog.genruntimeconfig.cache
+C:\Projects\c#\TheJituBlog\TheJituBlog\obj\Debug\net6.0\ref\TheJituBlog.dll
